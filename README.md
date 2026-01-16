@@ -90,7 +90,7 @@ I am a passionate Backend Developer with over 5 years of experience in web devel
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulloh-tursunboyev-496096250/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/strkr_x)
 [![HeadHunter](https://img.shields.io/badge/HeadHunter-FF0000?style=for-the-badge&logo=headhunter&logoColor=white)](https://hh.ru/resume/YOUR_RESUME_ID)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
