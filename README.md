@@ -1,6 +1,6 @@
 # 👨‍💻 Abdulloh Tursunboev
 
-**Backend Developer | Full-Stack Developer | 3+ Years Experience**
+**Backend Developer | Full-Stack Developer | 5+ Years Experience**
 
 📍 Fergana, Uzbekistan | 📧 abdullohtursunboyev001@gmail.com | 📱 +998 (93) 771-10-25
 
@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I am a passionate Backend Developer with over 3 years of experience in web development. I specialize in building scalable and maintainable web applications using NodeJS and ExpressJS, with solid experience in React for full-stack development. I enjoy working with modern technologies, tackling complex engineering challenges, and delivering clean, efficient, and reliable solutions.
+I am a passionate Backend Developer with over 5 years of experience in web development. I specialize in building scalable and maintainable web applications using NodeJS and ExpressJS, with solid experience in React for full-stack development. I enjoy working with modern technologies, tackling complex engineering challenges, and delivering clean, efficient, and reliable solutions.
 
 **🎯 Key Highlights:**
 - 5+ years in web development
